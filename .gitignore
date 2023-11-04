@@ -6,4 +6,10 @@ __pycache__/
 *.
 dataset/
 test_nb
-Icon
+Icon
+
+bin/
+.DS_Store
+lib/
+pyvenv.cfg
+share/

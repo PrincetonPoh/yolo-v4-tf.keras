@@ -2,8 +2,9 @@ import xml.etree.ElementTree as ET
 import os
 from glob import glob
 
-XML_PATH = './dataset/xml'
-CLASSES_PATH = './class_names/classes.txt'
+# XML_PATH = './dataset/xml'
+XML_PATH = './dataset/annotated-images'
+CLASSES_PATH = './class_names/pothole_class.txt'
 TXT_PATH = './dataset/txt/anno.txt'
 
 

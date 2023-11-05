@@ -4,6 +4,9 @@ This is a simple project for a course on Unstructured Data. I followed [this](ht
 # Dataset
 I followed the tutorial fully but trained it on a custom annotated dataset of potholes. The dataset can be found [here](https://www.kaggle.com/datasets/chitholian/annotated-potholes-dataset/data).
 
+# Weights
+I've trained a model using the train.ipynb and the weights is stored in a hdf5 file that can be downloaded from [here](https://drive.google.com/file/d/1MFrprdJLhMMixsnvhOQa0W2ftxzr9jqi/view?usp=sharing)
+
 # Further learnings
 I can attempt these simple things:
 
